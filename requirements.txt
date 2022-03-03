@@ -1,5 +1,5 @@
 fastapi
 pandas
 sklearn
-uvcorn
+uvicorn
 python-multipart
