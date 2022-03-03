@@ -1,0 +1,5 @@
+Fastapi
+pandas
+sklearn
+uvcorn
+python-multiport
